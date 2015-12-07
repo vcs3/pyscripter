@@ -4937,12 +4937,12 @@ msgstr ""
 #: frmPyIDEMain.dfm:2061 frmPyIDEMain.dfm:2070 frmPyIDEMain.dfm:2078
 #: frmPyIDEMain.dfm:2088
 msgid "Refactoring"
-msgstr ""
+msgstr "Refatorando"
 
 #. PyIDEMainForm..actlStandard..actFindDefinition..Caption
 #: frmPyIDEMain.dfm:2062
 msgid "Find &Definition"
-msgstr ""
+msgstr "Encontrar &Definição"
 
 #. PyIDEMainForm..actlStandard..actFindDefinition..Hint
 #: frmPyIDEMain.dfm:2065
@@ -4952,12 +4952,12 @@ msgstr ""
 #. PyIDEMainForm..actlStandard..actFindReferences..Caption
 #: frmPyIDEMain.dfm:2071
 msgid "Find &References"
-msgstr ""
+msgstr "Encontrar &Referências"
 
 #. PyIDEMainForm..actlStandard..actFindReferences..Hint
 #: frmPyIDEMain.dfm:2074
 msgid "Find references of an Identifier"
-msgstr ""
+msgstr "Encontrar referências no indificador"
 
 #. PyIDEMainForm..actlStandard..actBrowseBack..Caption
 #: frmPyIDEMain.dfm:2079
@@ -4987,7 +4987,7 @@ msgstr ""
 #. PyIDEMainForm..actlStandard..actViewRegExpTester..Hint
 #: frmPyIDEMain.dfm:2102
 msgid "View/Hide Regular Expression Tester"
-msgstr ""
+msgstr "Mostrar/esconder teste de expressões regulares"
 
 #. PyIDEMainForm..actlStandard..actEditorZoomIn..Caption
 #: frmPyIDEMain.dfm:2139
